@@ -1,4 +1,12 @@
-# Portfolio Website - Niswanidha  
+# Portfolio Website - Niswanidha 
+
+## About the Developer
+- **Name**: Niswanidha
+- **Intern ID**: CT08DS567 
+- **Company**: CODTECH IT SOLUTIONS PVT.LTD  
+- **Contact Email**: niswa7133@gmail.com  
+
+---
 
 ### Overview  
 This is a personal portfolio website designed to showcase my skills, projects, and achievements as a second-year civil engineering student. The website highlights my expertise in architectural visualization, design, and rendering, presented in a clean and professional layout.  
